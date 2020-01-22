@@ -1,1 +1,1 @@
-console.log(parseInt('nonsense', 10))
+console.log(parseInt('20', 10))
