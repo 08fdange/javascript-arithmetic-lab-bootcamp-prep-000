@@ -18,10 +18,12 @@ function inc(n) {
   return n ++
 }
 
-funtion dec(n) {
+function dec(n) {
   return n --
 }
 
 function makeInt(n) {
   return parseInt(n, 10)
 }
+
+
